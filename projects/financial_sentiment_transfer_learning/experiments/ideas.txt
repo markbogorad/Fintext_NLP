@@ -1,5 +1,0 @@
-Extra | Difficulty | Where to put
-
-Vary # of fine-tuning samples | Low | Part 1
-In-context learning | Low–Fun | Experiment notebook
-Vary LoRA rank | Low–Medium | Part 2 or new experiments/lora_rank.ipynb
