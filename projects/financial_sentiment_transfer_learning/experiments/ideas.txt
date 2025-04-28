@@ -1,10 +1,5 @@
 Extra | Difficulty | Where to put
-TFDS conversion | Low–Medium | Separate notebook or Part 1
-Custom classification head | Medium–High | Part 1
-Use different dataset flavors | Low | Part 1
-Address label imbalance | Low | Part 1
-Error analysis (per-class, patterns) | Medium | Part 1
-Try different pre-trained models | Low | Part 1
+
 Vary # of fine-tuning samples | Low | Part 1
 In-context learning | Low–Fun | Experiment notebook
 Vary LoRA rank | Low–Medium | Part 2 or new experiments/lora_rank.ipynb
