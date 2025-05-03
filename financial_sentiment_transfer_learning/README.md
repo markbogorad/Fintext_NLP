@@ -49,23 +49,6 @@ The goal is to understand how far transfer learning can go in closing the perfor
 
 ---
 
-## Highlights
-
-* **Baseline DistilBERT** achieves \~85% accuracy with a frozen encoder
-* **Fine-tuning the encoder** raises performance above 95%
-* **Custom class weighting by sentence length** improves minority-class recall
-* **Custom head architecture** offers flexibility for dropout, optimizer, and dense-layer experimentation
-* **Dataset agreement thresholds** influence generalization more than size alone
-* **FinBERT and BART** outperform others in full fine-tuning scenarios
-
----
-
-## Dataset
-
-* Financial PhraseBank (via Hugging Face `datasets`)
-* Variants: `sentences_allagree`, `75agree`, `66agree`, `50agree`
-
----
 
 ## Summary
 
