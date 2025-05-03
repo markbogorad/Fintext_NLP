@@ -1,7 +1,3 @@
-Here’s your updated `README.md` with the emojis removed and your custom table of contents included for clarity and alignment:
-
----
-
 # Financial Sentiment Classification with Transformer-Based Models
 
 This project investigates how general-purpose transformer models—specifically DistilBERT—can be adapted to perform sentiment classification on financial text. Through a series of controlled experiments, the study evaluates the impact of different fine-tuning strategies, model configurations, and architectural decisions on performance. Key components include class imbalance correction, custom classification heads, and comparisons with alternative models like FinBERT and BART.
