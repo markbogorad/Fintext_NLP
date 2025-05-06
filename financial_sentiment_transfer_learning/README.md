@@ -38,7 +38,7 @@ The goal is to understand how far transfer learning can go in closing the perfor
    - [In-Context Learning Notebook](./experiments/9_in_context_learning_experiments.ipynb)
 
 10. **NLP for Commodities Trading**
-   - [#OOTT Sentiment Analysis](../OOTT/oott.ipynb)
+    - [#OOTT Sentiment Analysis](../OOTT/oott.ipynb)
 
 11. **Conclusion**
 
